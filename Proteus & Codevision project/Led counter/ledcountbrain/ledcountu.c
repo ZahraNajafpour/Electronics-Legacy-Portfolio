@@ -1,0 +1,44 @@
+#include<mega32.h>
+#include<delay.h>
+unsigned char i,j=0;
+bit flag=1;
+void main(void){
+DDRB=0xff;
+PORTB=0x00;
+
+while(1){
+if(PINA.0==0){
+delay_ms(25);
+i++;
+if(i==5)i=0;
+j=0;
+PORTB=0x00;
+flag=1;
+while(PINA.0==0);
+}
+if(i==1){
+PORTB++;
+delay_ms(200);
+}
+if(i==2){
+PORTB--;
+delay_ms(200);
+}
+if(i==3){
+PORTB=0x01;
+PORTB=PORTB<<j;
+delay_ms(200);
+if(flag) j++; else j--;
+if(j==7) flag=0;
+if(j==0) flag=1;
+}
+if(i==4){
+if(flag) PORTB=PORTB+(0x01<<j);
+else     PORTB=PORTB-(0x01<<j);
+delay_ms(200);
+if(flag) j++; else j--;
+if(j==8) flag=0;
+if(j==255) flag=1;
+}
+}
+}

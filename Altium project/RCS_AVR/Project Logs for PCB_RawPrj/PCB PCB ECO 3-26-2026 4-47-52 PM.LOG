@@ -1,0 +1,13 @@
+Added Component: Designator=DS1(BOX-HDR-2x6-2.54mm-S)
+Add component (AddParameter): Name = "Inflow"; Value = "8116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Alphanumeric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS1-1
+Added Pin To Net: NetName=+5 Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=DS1-5
+Added Pin To Net: NetName=+5 Pin=DS1-11
+Added Pin To Net: NetName=GND Pin=DS1-12
+Added Member To Class: ClassName=U_alcd Member=Component DS1 16x2

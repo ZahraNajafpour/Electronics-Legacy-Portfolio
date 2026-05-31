@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=speed Pin=Q?-1
+Removed Pin From Net: NetName=pump Pin=Q?-3
+Added Pin To Net: NetName=pump Pin=Q?-1
+Added Pin To Net: NetName=speed Pin=Q?-3

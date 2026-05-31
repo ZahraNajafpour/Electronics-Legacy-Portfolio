@@ -1,0 +1,33 @@
+# --- Altium Designer ---
+*.PcbDoc.htm
+*.Constraint
+*.Txt
+Project\ Outputs*/
+History/
+__pycache__/
+*.Logs
+*.DXF
+
+# --- Keil / STM32 / CodeVision ---
+Objects/
+Listings/
+*.uvgui.*
+*.uvoptx
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.htm
+*.build_log.htm
+*.hex
+*.bin
+*.out
+
+# --- Proteus ---
+*.pwi
+*.Last\ Loaded\ *.pdsbak
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db

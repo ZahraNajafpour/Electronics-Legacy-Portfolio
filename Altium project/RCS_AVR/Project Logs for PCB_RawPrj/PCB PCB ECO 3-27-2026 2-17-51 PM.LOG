@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+4 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=+4 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Added Component: Designator=C7(C_TN_3528)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TCJT106M016R0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "20%, 200mOhm, -55~105oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C_TN_3528)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TCJT106M016R0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "20%, 200mOhm, -55~105oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+4 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+4 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Member To Class: ClassName=U_GSM Member=Component D2 ZENER5V1

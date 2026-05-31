@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=+4 Pin=D2-2
+Change Component Comment : Designator=C7 Old Comment=47uF New Comment=1uF
+Change Component Comment : Designator=C10 Old Comment=68pF New Comment=10
+Change Component Comment : Designator=C9 Old Comment=68pF New Comment=33pF
+Change Component Comment : Designator=C8 Old Comment=68pF New Comment=100nF
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C_TN_2012"; UniqueID = "\XWXKNNMM\ZIVXPROG" ("\XWXKNNMM\ZIVXPROG")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0805"; UniqueID = "\XWXKNNMM\TQTYGSYD" ("\XWXKNNMM\TQTYGSYD")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "UMK212ABJ225KG-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "X5R, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 10$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0805"; UniqueID = "\XWXKNNMM\GFSVUZYQ" ("\XWXKNNMM\GFSVUZYQ")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "UMK212ABJ225KG-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "X5R, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 10$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0805"; UniqueID = "\XWXKNNMM\TYZYPZEL" ("\XWXKNNMM\TYZYPZEL")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "UMK212ABJ225KG-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "X5R, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 10$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C_TN_2012)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D_SOD123W)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "BZT52HC5V1WF-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "5.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1W, 4Ohm, -55~150oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.25$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "ZENER5V1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+4 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=+4 Pin=D2-2
+Added Member To Class: ClassName=U_GSM Member=Component C20 100uF

@@ -1,0 +1,3 @@
+aLCD=aLCDRS,aLCDE,aLCDD4,aLCDD5,aLCDD6,aLCDD7
+Motor signals=speed,motor,pump
+UART=uRX,uTX

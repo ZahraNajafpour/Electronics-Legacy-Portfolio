@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=SIM VDD Pin=D3-3
+Added Pin To Net: NetName=SIM VDD Pin=MC1-14
+Added Pin To Net: NetName=SIM CLK Pin=R11-1
+Added Pin To Net: NetName=SIM RST Pin=R12-1
+Added Pin To Net: NetName=SIM DATA Pin=D3-5
+Added Pin To Net: NetName=SIM DATA Pin=MC1-11
+Added Pin To Net: NetName=SIM DATA Pin=R10-1
+Added Net: Name=SIM DATA
+Added Member To Class: ClassName=U_GSM Member=Component C7 1uF
+Added Member To Class: ClassName=U_GSM Member=Component C20 100uF

@@ -1,0 +1,36 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+c                                                                                 0x0260      16
+_base_y                                                                           0x0270       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+key                                                                               R5           1
+_lcd_x                                                                            R4           1
+_lcd_y                                                                            R7           1
+_lcd_maxx                                                                         R6           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+keyboard                                                                          0x0006B     84
+ext_int2_isr                                                                      0x000BF     41
+main                                                                              0x000E8     57
+_lcd_write_nibble_G100                                                            0x00121     20
+_lcd_write_data                                                                   0x00135     12
+lcd_gotoxy                                                                        0x00141     13
+lcd_clear                                                                         0x0014E     12
+lcd_putchar                                                                       0x0015A     21
+lcd_puts                                                                          0x0016F     17
+lcd_init                                                                          0x00180     45
+put_buff_G101                                                                     0x001AD     64
+_print_G101                                                                       0x001ED    308
+sprintf                                                                           0x00321     52
+strlen                                                                            0x00355     12
+strlenf                                                                           0x00361     13

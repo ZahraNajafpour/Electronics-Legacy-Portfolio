@@ -1,0 +1,7 @@
+Added Component: Designator=U?(SO16_L)
+Add component (AddParameter): Name = "Inflow"; Value = "1506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ULN2003"; VariantName = "[No Variations]"

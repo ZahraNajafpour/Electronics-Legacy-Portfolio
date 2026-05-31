@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=speed Pin=Q?-1
+Added Pin To Net: NetName=motor Pin=Q?-2
+Added Pin To Net: NetName=pump Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-8
+Added Pin To Net: NetName=+12 Pin=Q?-9
+Added Pin To Net: NetName=NetQ?_14 Pin=Q?-14
+Added Pin To Net: NetName=NetQ?_14 Pin=R34-1
+Added Net: Name=NetQ?_14
+Added Pin To Net: NetName=NetQ?_15 Pin=Q?-15
+Added Pin To Net: NetName=NetQ?_15 Pin=R33-1
+Added Net: Name=NetQ?_15
+Added Pin To Net: NetName=NetQ?_16 Pin=Q?-16
+Added Pin To Net: NetName=NetQ?_16 Pin=R32-1
+Added Net: Name=NetQ?_16
+Added Member To Class: ClassName=U_output Member=Component Q? ULN2003

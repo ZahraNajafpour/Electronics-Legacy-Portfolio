@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=null Pin=J6-4
+Change Component Footprint: Designator=J6 Old Footprint=GMSTB762_4 New Footprint=GMSTB762_3
+Change Component Comment : Designator=J6 Old Comment=CONN_GMSTB4 New Comment=CONN_GMSTB3
+Change component parameters: Designator = "J6" ("J6"); Footprint = "GMSTB762_4"; UniqueID = "\KHRCUOTN\WYAZFBWE" ("\KHRCUOTN\WYAZFBWE")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "GMSTB 2,5/3-G-7,62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "CONN_GMSTB3"; VariantName = "[No Variations]"
+Added Component: Designator=J7(GMSTB762_2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "GMSTB 2,5/2-G-7,62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "CONN_GMSTB2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=null Pin=J6-3
+Added Pin To Net: NetName=null Pin=J7-2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=K3-3
+Added Net: Name=NetJ7_1
+Added Member To Class: ClassName=U_output Member=Component J7 CONN_GMSTB2

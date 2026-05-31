@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetD8_1 Pin=Q2-14
+Added Pin To Net: NetName=NetD8_1 Pin=R32-1
+Added Member To Class: ClassName=U_output Member=Component D8 1N5819
+Added Member To Class: ClassName=U_output Member=Component D9 1N5819

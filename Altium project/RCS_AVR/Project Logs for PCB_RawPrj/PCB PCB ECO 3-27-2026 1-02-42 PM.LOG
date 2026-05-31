@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=F1 Old Footprint=FUSH_5X20MM New Footprint=F1206
+Change Component Comment : Designator=F1 Old Comment=FUSE2A New Comment=FUSE3A_1206
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSH_5X20MM"; UniqueID = "\OZLRWVBL\MIDYJCPA" ("\OZLRWVBL\MIDYJCPA")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "SF-1206SP300-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "3A; 32VDC; Slow Blow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "0.027Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "0.9$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "FUSE3A_1206"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetQ?_14 New Net Name=NetQ2_14
+Change Net Name : Old Net Name=NetQ?_15 New Net Name=NetQ2_15
+Change Net Name : Old Net Name=NetQ?_16 New Net Name=NetQ2_16

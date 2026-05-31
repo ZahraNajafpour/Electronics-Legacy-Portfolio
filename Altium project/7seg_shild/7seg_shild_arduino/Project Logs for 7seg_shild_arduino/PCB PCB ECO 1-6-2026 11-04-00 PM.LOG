@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=D1-3
+Removed Pin From Net: NetName=NetD1_4 Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=NetD1_1 Pin=U1-12
+Added Component: Designator=R14(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=R14-2
+Added Pin To Net: NetName=NetD1_4 Pin=R16-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=R15-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetDS1_6 Pin=DS1-6
+Added Pin To Net: NetName=NetDS1_6 Pin=U1-13
+Added Net: Name=NetDS1_6
+Added Pin To Net: NetName=NetDS1_8 Pin=DS1-8
+Added Pin To Net: NetName=NetDS1_8 Pin=U1-14
+Added Net: Name=NetDS1_8
+Added Pin To Net: NetName=NetDS1_9 Pin=DS1-9
+Added Pin To Net: NetName=NetDS1_9 Pin=U1-15
+Added Net: Name=NetDS1_9
+Added Pin To Net: NetName=NetDS1_12 Pin=DS1-12
+Added Pin To Net: NetName=NetDS1_12 Pin=U1-16
+Added Net: Name=NetDS1_12
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-12
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-11
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U1-10
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=Sheet Member=Component R14 470
+Added Member To Class: ClassName=Sheet Member=Component R15 470
+Added Member To Class: ClassName=Sheet Member=Component R16 470
+Added Member To Class: ClassName=Sheet Member=Component U1 ULN2003

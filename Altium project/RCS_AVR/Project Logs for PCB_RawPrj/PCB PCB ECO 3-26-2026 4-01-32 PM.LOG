@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=pump Pin=J6-3
+Removed Pin From Net: NetName=pump Pin=K3-3
+Removed Member From Class: ClassName=U_controller Member=C22
+Removed Member From Class: ClassName=U_GSM Member=C23
+Removed Member From Class: ClassName=U_GSM Member=C24
+Removed Member From Class: ClassName=U_GSM Member=C25
+Removed Member From Class: ClassName=U_GSM Member=C26
+Removed Member From Class: ClassName=U_GSM Member=C27
+Removed Member From Class: ClassName=U_GSM Member=C28
+Removed Member From Class: ClassName=U_GSM Member=C29
+Removed Member From Class: ClassName=U_GSM Member=C30
+Removed Member From Class: ClassName=U_GSM Member=C31
+Removed Member From Class: ClassName=U_GSM Member=C32
+Removed Member From Class: ClassName=U_input Member=C33
+Removed Member From Class: ClassName=U_input Member=C34
+Removed Member From Class: ClassName=U_input Member=C35
+Removed Member From Class: ClassName=U_input Member=C36
+Removed Member From Class: ClassName=U_controller Member=C37
+Removed Member From Class: ClassName=U_GSM Member=J5
+Removed Member From Class: ClassName=U_GSM Member=R22
+Removed Member From Class: ClassName=U_GSM Member=R23
+Removed Member From Class: ClassName=U_GSM Member=R24
+Removed Member From Class: ClassName=U_GSM Member=R25
+Removed Member From Class: ClassName=U_GSM Member=R26
+Removed Member From Class: ClassName=U_GSM Member=R27
+Removed Member From Class: ClassName=U_GSM Member=R28
+Removed Member From Class: ClassName=U_GSM Member=R29
+Removed Member From Class: ClassName=U_input Member=R30
+Removed Member From Class: ClassName=U_input Member=R31
+Removed Member From Class: ClassName=U_input Member=U5
+Removed Member From Class: ClassName=U_input Member=U6
+Removed Member From Class: ClassName=U_alcd Member=U7
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=K1-3
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=K1-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=K3-3
+Added Net: Name=NetJ6_3
+Added Member To Class: ClassName=U_controller Member=Component C5 22pF
+Added Member To Class: ClassName=U_controller Member=Component C6 22pF
+Added Member To Class: ClassName=U_GSM Member=Component C7 47uF
+Added Member To Class: ClassName=U_GSM Member=Component C8 68pF
+Added Member To Class: ClassName=U_GSM Member=Component C9 68pF
+Added Member To Class: ClassName=U_GSM Member=Component C10 68pF
+Added Member To Class: ClassName=U_GSM Member=Component C11 1uF
+Added Member To Class: ClassName=U_GSM Member=Component C12 33pF
+Added Member To Class: ClassName=U_GSM Member=Component C13 100nF
+Added Member To Class: ClassName=U_GSM Member=Component C14 68pF
+Added Member To Class: ClassName=U_GSM Member=Component C15 68pF
+Added Member To Class: ClassName=U_GSM Member=Component C16 68pF
+Added Member To Class: ClassName=U_input Member=Component C17 10n'F, 600'V
+Added Member To Class: ClassName=U_input Member=Component C18 100uF
+Added Member To Class: ClassName=U_input Member=Component C19 10n'F, 600'V
+Added Member To Class: ClassName=U_input Member=Component C20 100uF
+Added Member To Class: ClassName=U_supply Member=Component C21 100nF
+Added Member To Class: ClassName=U_supply Member=Component D4 LED805YLW
+Added Member To Class: ClassName=U_supply Member=Component D5 LED805RED
+Added Member To Class: ClassName=U_supply Member=Component D6 LED805BLU
+Added Member To Class: ClassName=U_supply Member=Component D7 LED805GRN
+Added Member To Class: ClassName=U_output Member=Component D8 1N5819
+Added Member To Class: ClassName=U_output Member=Component D9 1N5819
+Added Member To Class: ClassName=U_output Member=Component D10 1N5819
+Added Member To Class: ClassName=U_supply Member=Component F1 FUSE2A
+Added Member To Class: ClassName=U_output Member=Component F2 FUSE2A
+Added Member To Class: ClassName=U_GSM Member=Component J3 6'Pin
+Added Member To Class: ClassName=U_controller Member=Component R1 4.7K
+Added Member To Class: ClassName=U_controller Member=Component R3 100K
+Added Member To Class: ClassName=U_GSM Member=Component R5 4.7K
+Added Member To Class: ClassName=U_GSM Member=Component R6 47K
+Added Member To Class: ClassName=U_GSM Member=Component R7 1K
+Added Member To Class: ClassName=U_GSM Member=Component R8 22
+Added Member To Class: ClassName=U_GSM Member=Component R9 5.6K
+Added Member To Class: ClassName=U_GSM Member=Component R10 22
+Added Member To Class: ClassName=U_GSM Member=Component R11 22
+Added Member To Class: ClassName=U_GSM Member=Component R12 22
+Added Member To Class: ClassName=U_input Member=Component R13 10K
+Added Member To Class: ClassName=U_input Member=Component R14 10K
+Added Member To Class: ClassName=U_input Member=Component U2 TLP521-2
+Added Member To Class: ClassName=U_input Member=Component U3 TLP521-2
+Added Member To Class: ClassName=U_alcd Member=Component U4 LCD_16X2

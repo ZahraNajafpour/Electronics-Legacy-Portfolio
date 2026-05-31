@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+12 Pin=C22-1
+Removed Pin From Net: NetName=+12 Pin=C23-2
+Removed Pin From Net: NetName=+12 Pin=C29-1
+Removed Pin From Net: NetName=+12 Pin=C30-2
+Removed Pin From Net: NetName=+12 Pin=U5-3
+Removed Pin From Net: NetName=+12 Pin=U5-5
+Removed Pin From Net: NetName=+12 Pin=U6-3
+Removed Pin From Net: NetName=+12 Pin=U6-5
+Added Component: Designator=F3(F1206)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SF-1206SP300-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "3A; 32VDC; Slow Blow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "0.027Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.9$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "FUSE3A_1206"; VariantName = "[No Variations]"
+Added Component: Designator=F4(F1206)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SF-1206SP300-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "3A; 32VDC; Slow Blow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "0.027Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.9$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "FUSE3A_1206"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=F3-1
+Added Pin To Net: NetName=+12 Pin=F4-1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=C23-2
+Added Pin To Net: NetName=NetC22_1 Pin=F3-2
+Added Pin To Net: NetName=NetC22_1 Pin=U5-3
+Added Pin To Net: NetName=NetC22_1 Pin=U5-5
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=C30-2
+Added Pin To Net: NetName=NetC29_1 Pin=F4-2
+Added Pin To Net: NetName=NetC29_1 Pin=U6-3
+Added Pin To Net: NetName=NetC29_1 Pin=U6-5
+Added Net: Name=NetC29_1
+Added Member To Class: ClassName=U_supply Member=Component F3 FUSE3A_1206
+Added Member To Class: ClassName=U_supply Member=Component F4 FUSE3A_1206

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=digit1 Pin=U1-1
+Removed Pin From Net: NetName=digit2 Pin=U1-2
+Removed Pin From Net: NetName=digit3 Pin=U1-3
+Removed Pin From Net: NetName=digit4 Pin=U1-4
+Removed Pin From Net: NetName=RGBB Pin=U1-5
+Removed Pin From Net: NetName=RGBG Pin=U1-6
+Removed Pin From Net: NetName=RGBR Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=NetD1_4 Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=NetD1_1 Pin=U1-12
+Added Component: Designator=U1(CDIP16)
+Add component (AddParameter): Name = "Inflow"; Value = "1506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ULN2003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=digit1 Pin=U1-1
+Added Pin To Net: NetName=digit2 Pin=U1-2
+Added Pin To Net: NetName=digit3 Pin=U1-3
+Added Pin To Net: NetName=digit4 Pin=U1-4
+Added Pin To Net: NetName=RGBB Pin=U1-5
+Added Pin To Net: NetName=RGBG Pin=U1-6
+Added Pin To Net: NetName=RGBR Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetD1_4 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetD1_1 Pin=U1-12

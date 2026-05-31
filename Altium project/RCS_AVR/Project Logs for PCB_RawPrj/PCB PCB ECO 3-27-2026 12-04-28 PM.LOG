@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=phase Pin=J4-3
+Removed Pin From Net: NetName=null Pin=J4-4
+Removed Pin From Net: NetName=+3.3 Pin=R14-2
+Removed Pin From Net: NetName=null Pin=R16-1
+Removed Pin From Net: NetName=+3.3 Pin=R18-2
+Removed Pin From Net: NetName=null Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Member From Class: ClassName=U_input Member=C17
+Removed Member From Class: ClassName=U_input Member=C18
+Removed Member From Class: ClassName=U_input Member=C19
+Removed Member From Class: ClassName=U_input Member=C20
+Removed Member From Class: ClassName=U_input Member=DB1
+Removed Member From Class: ClassName=U_input Member=DB2
+Removed Member From Class: ClassName=U_input Member=R13
+Removed Member From Class: ClassName=U_input Member=R14
+Removed Member From Class: ClassName=U_input Member=R15
+Removed Member From Class: ClassName=U_input Member=R16
+Removed Member From Class: ClassName=U_input Member=R17
+Removed Member From Class: ClassName=U_input Member=R18
+Removed Member From Class: ClassName=U_input Member=R19
+Removed Member From Class: ClassName=U_input Member=R20
+Removed Member From Class: ClassName=U_input Member=U2
+Removed Member From Class: ClassName=U_input Member=U3
+Change Component Footprint: Designator=J4 Old Footprint=GMSTB762_4 New Footprint=GMSTB762_2
+Change Component Comment : Designator=J4 Old Comment=CONN_GMSTB4 New Comment=CONN_GMSTB2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change component parameters: Designator = "J4" ("J4"); Footprint = "GMSTB762_4"; UniqueID = "\UJIFVRJG\JTNPTXXU" ("\UJIFVRJG\JTNPTXXU")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "GMSTB 2,5/2-G-7,62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "CONN_GMSTB2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=phase Pin=J4-1
+Added Pin To Net: NetName=null Pin=J4-2
+Change Net Name : Old Net Name=NetDS?_3 New Net Name=NetDS1_3

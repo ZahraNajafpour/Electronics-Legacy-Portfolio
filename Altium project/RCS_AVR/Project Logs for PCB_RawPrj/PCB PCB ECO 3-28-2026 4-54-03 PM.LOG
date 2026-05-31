@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=reset Pin=C4-2
+Added Pin To Net: NetName=learn Pin=C39-2
+Added Pin To Net: NetName=reset Pin=R3-1
+Added Pin To Net: NetName=learn Pin=R37-1

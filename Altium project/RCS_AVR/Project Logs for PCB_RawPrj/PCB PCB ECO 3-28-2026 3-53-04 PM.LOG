@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+5 Pin=C19-1
+Added Member To Class: ClassName=U_supply Member=Component C19 10uF
+Added Member To Class: ClassName=U_GSM Member=Component D1 LED805BLU
+Added Member To Class: ClassName=U_GSM Member=Component Q1 BC817
+Added Member To Class: ClassName=U_GSM Member=Component R4 100
+Added Member To Class: ClassName=U_GSM Member=Component R5 4.7K
+Added Member To Class: ClassName=U_GSM Member=Component R6 47K
+Added Member To Class: ClassName=U_supply Member=Component U5 Value?

@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:5B94ACD7
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:3 "data -> RAM:????"
+NODE:F LEVEL:0 LINE:4 "display(void)"
+NODE:F LEVEL:0 LINE:16 "keybord(void)"
+NODE:F LEVEL:0 LINE:33 "main(void)"

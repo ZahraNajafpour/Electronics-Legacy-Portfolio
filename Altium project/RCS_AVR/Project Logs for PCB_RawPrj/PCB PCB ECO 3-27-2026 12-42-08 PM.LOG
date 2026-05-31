@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=speed Pin=Q2-1
+Removed Pin From Net: NetName=motor Pin=Q2-2
+Removed Pin From Net: NetName=pump Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q2-8
+Removed Pin From Net: NetName=+12 Pin=Q2-9
+Removed Member From Class: ClassName=U_output Member=Q2
+Added Component: Designator=U?(SO16_M)
+Add component (AddParameter): Name = "Inflow"; Value = "1506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ULN2003"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_output Member=Component U? ULN2003

@@ -1,0 +1,76 @@
+Added Component: Designator=DS?(BOX-HDR-2x6-2.54mm-S)
+Add component (AddParameter): Name = "Inflow"; Value = "8116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Alphanumeric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS?-1
+Added Pin To Net: NetName=+5 Pin=DS?-2
+Added Pin To Net: NetName=GND Pin=DS?-5
+Added Pin To Net: NetName=+5 Pin=DS?-11
+Added Pin To Net: NetName=GND Pin=DS?-12
+Added Pin To Net: NetName=phase Pin=F2-1
+Added Pin To Net: NetName=+3.3 Pin=J1-2
+Added Pin To Net: NetName=Motor/H Pin=J4-1
+Added Pin To Net: NetName=Motor/L Pin=J4-2
+Added Pin To Net: NetName=null Pin=J6-4
+Added Pin To Net: NetName=XTL1 Pin=U1-7
+Added Pin To Net: NetName=XTL2 Pin=U1-8
+Added Pin To Net: NetName=MH_micro Pin=U1-10
+Added Pin To Net: NetName=ML_micro Pin=U1-11
+Added Pin To Net: NetName=SDA Pin=U1-27
+Added Pin To Net: NetName=SCL Pin=U1-28
+Added Pin To Net: NetName=LCDD4 Pin=DS?-7
+Added Pin To Net: NetName=LCDD4 Pin=U1-23
+Added Net: Name=LCDD4
+Added Pin To Net: NetName=LCDD5 Pin=DS?-8
+Added Pin To Net: NetName=LCDD5 Pin=U1-24
+Added Net: Name=LCDD5
+Added Pin To Net: NetName=LCDD6 Pin=DS?-9
+Added Pin To Net: NetName=LCDD6 Pin=U1-25
+Added Net: Name=LCDD6
+Added Pin To Net: NetName=LCDD7 Pin=DS?-10
+Added Pin To Net: NetName=LCDD7 Pin=U1-26
+Added Net: Name=LCDD7
+Added Pin To Net: NetName=LCDE Pin=DS?-6
+Added Pin To Net: NetName=LCDE Pin=U1-9
+Added Net: Name=LCDE
+Added Pin To Net: NetName=LCDRS Pin=DS?-4
+Added Pin To Net: NetName=LCDRS Pin=U1-2
+Added Net: Name=LCDRS
+Added Pin To Net: NetName=learn Pin=SW2-2
+Added Pin To Net: NetName=learn Pin=U1-1
+Added Net: Name=learn
+Added Pin To Net: NetName=MISO Pin=J1-1
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=motor Pin=Q2-2
+Added Pin To Net: NetName=motor Pin=U1-13
+Added Net: Name=motor
+Added Pin To Net: NetName=NetDS?_3 Pin=DS?-3
+Added Pin To Net: NetName=NetDS?_3 Pin=R21-2
+Added Net: Name=NetDS?_3
+Added Pin To Net: NetName=pump Pin=Q2-3
+Added Pin To Net: NetName=pump Pin=U1-14
+Added Net: Name=pump
+Added Pin To Net: NetName=reset Pin=J1-5
+Added Pin To Net: NetName=reset Pin=SW1-2
+Added Pin To Net: NetName=reset Pin=U1-29
+Added Net: Name=reset
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=speed Pin=Q2-1
+Added Pin To Net: NetName=speed Pin=U1-12
+Added Net: Name=speed
+Added Pin To Net: NetName=uRX Pin=R7-2
+Added Pin To Net: NetName=uRX Pin=U1-30
+Added Net: Name=uRX
+Added Pin To Net: NetName=uTX Pin=R8-2
+Added Pin To Net: NetName=uTX Pin=U1-31
+Added Net: Name=uTX
+Added Member To Class: ClassName=U_alcd Member=Component DS? 16x2
